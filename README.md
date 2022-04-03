@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @martin-sercoder
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-martin-sercoder/martin-sercoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+<img src="https://user-images.githubusercontent.com/102924131/161446025-84b552c5-c24e-4f4b-b179-a7f76d8c6a40.png" width=100>
+  <br><br>
+  <samp>
+👋 Hola, I’m @martin-sercoder
+  </samp>
+</p>
